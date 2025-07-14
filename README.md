@@ -25,3 +25,16 @@ A modern, responsive landing page and dashboard for your AI-powered learning pla
 git clone https://github.com/yourusername/sphinxai-landing.git
 cd sphinxai-landing
 
+```
+
+### 2. **Install Dependencies**
+
+```bash
+npm install
+```
+
+### 3. **Run the Development Server**
+
+```bash
+npm run dev
+```
